@@ -14,3 +14,5 @@ for i in range(N):
     S +=sorted_A[i]*sorted_B[i]
 
 print(S)
+
+
